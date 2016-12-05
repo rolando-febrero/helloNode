@@ -1,7 +1,7 @@
-### helloNode - application skeleton for a simple and typical Node.js app using Express framewrok
+## helloNode - application skeleton for a simple and typical Node.js app using Express framewrok
 
-##This application is an application skeleton for a simple and typical Node.js app using Express framewrok. 
-##You can use it to quickly bootstrap you Node.js app. =)
+This application is an application skeleton for a simple and typical Node.js app using Express framewrok. 
+You can use it to quickly bootstrap you Node.js app. =)
 
 ##Getting Started
 To get you started you can simply clone the helloNode repository and install the dependencies.
