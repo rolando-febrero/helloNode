@@ -1,4 +1,4 @@
-## helloNode - application skeleton for a simple and typical Node.js app using Express framewrok
+## helloNode - application skeleton for a simple and typical Node.js app using Express framework
 
 This application is an application skeleton for a simple and typical Node.js app using Express framewrok. 
 You can use it to quickly bootstrap you Node.js app. =)
